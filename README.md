@@ -1,4 +1,10 @@
-## Hi, I'm Nipun Bhagya 🤗🧑‍💻
+<h1 align="center">
+  Hi, I'm Nipun Bhagya 🤗🧑‍💻
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E7E&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Android+%7C+iOS+%7C+Flutter;Clean+%26+Scalable+Apps;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
 I'm a passionate **Mobile Developer** with experience in building high-quality **Android apps** (using Java and Kotlin) and **iOS apps** (using Swift). I specialize in creating clean, user-friendly applications that focus on performance and scalability. Always eager to learn and stay updated with the latest trends in mobile development.
 
@@ -18,6 +24,14 @@ I'm a passionate **Mobile Developer** with experience in building high-quality *
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+
+#### 🛢️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DBeaver](https://img.shields.io/badge/DBeaver-2C2C2C?style=for-the-badge&logo=dbeaver&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-003545?style=for-the-badge&logoColor=white)
 
 #### 📱 Mobile & Tools
 
@@ -42,7 +56,7 @@ I'm a passionate **Mobile Developer** with experience in building high-quality *
 
 ### 📈 GitHub Stats
 
-![Nipunpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical)
+![Nipunpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
 ---
 
