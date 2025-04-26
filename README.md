@@ -68,6 +68,6 @@ I'm a passionate <strong>Mobile Developer</strong> with experience in building h
 
 ### 🔗 Portfolio
 
-Check out my portfolio: [**Click Here**]([https://nipunpv.github.io/my-portfolio](https://github.com/Nipunpv/my-portfolio.git))
+Check out my portfolio: [**Click Here**](https://nipunpv.github.io/my-portfolio)
 
 ---
