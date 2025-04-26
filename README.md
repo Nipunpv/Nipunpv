@@ -1,16 +1,14 @@
 <h1 align="center">
-  Hi, I'm Nipun Bhagya 🤗🧑‍💻
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1DA1F2&center=true&vCenter=true&width=450&lines=Hi%2C+I'm+Nipun+Bhagya+%F0%9F%91%8B%F0%9F%92%BB" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E7E&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Android+%7C+iOS+%7C+Flutter;Clean+%26+Scalable+Apps;Always+Learning+New+Tech!" alt="Typing SVG" />
+I'm a passionate <strong>Mobile Developer</strong> with experience in building high-quality <strong>Android apps</strong> (using Java and Kotlin) and <strong>iOS apps</strong> (using Swift). I specialize in clean, user-friendly applications that focus on performance and scalability. Always excited to explore the latest in mobile tech!
 </p>
-
-I'm a passionate **Mobile Developer** with experience in building high-quality **Android apps** (using Java and Kotlin) and **iOS apps** (using Swift). I specialize in creating clean, user-friendly applications that focus on performance and scalability. Always eager to learn and stay updated with the latest trends in mobile development.
 
 ---
 
-### 🛠️ Tech Stack
+### ⚙️ Tech Stack
 
 #### 💻 Languages & Frameworks
 
@@ -46,21 +44,21 @@ I'm a passionate **Mobile Developer** with experience in building high-quality *
 
 ---
 
-### 📱 Featured Projects
+### 🚀 Featured Projects
 
-- [**AwesomeApp**](https://github.com/Nipunpv/awesomeapp) – A task manager app built with Kotlin & Jetpack Compose.
-- [**SwiftWeather**](https://github.com/Nipunpv/swiftweather) – A weather app built using SwiftUI & OpenWeather API.
-- [**CrossPlatformApp**](https://github.com/Nipunpv/crossplatformapp) – A cross-platform app built with Flutter.
-
----
-
-### 📈 GitHub Stats
-
-![Nipunpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+- [**AwesomeApp**](https://github.com/Nipunpv/awesomeapp) – Task manager built with Kotlin & Jetpack Compose
+- [**SwiftWeather**](https://github.com/Nipunpv/swiftweather) – Weather app with SwiftUI & OpenWeather API
+- [**CrossPlatformApp**](https://github.com/Nipunpv/crossplatformapp) – Cross-platform app built with Flutter
 
 ---
 
-### 🌐 Connect with me
+### 📊 GitHub Stats
+
+![Nipunpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+---
+
+### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nipun-bhagya-041379259)  
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter)](https://x.com/PVBNipun?t=2MwL1cT5-qXbX8waVPPWFw&s=09)
@@ -69,6 +67,6 @@ I'm a passionate **Mobile Developer** with experience in building high-quality *
 
 ### 🔗 Portfolio
 
-Check out my portfolio here: [**View Portfolio**](https://nipunpv.github.io/my-portfolio)
+Check out my portfolio: [**Click Here**](https://nipunpv.github.io/my-portfolio)
 
 ---
