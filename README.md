@@ -1,4 +1,4 @@
-## Hi, I'm [Nipun Bhagya] 👋
+## Hi, I'm Nipun Bhagya 🤗🧑‍💻
 
 I'm a passionate Mobile Developer with experience in building high-quality Android apps (using Java and Kotlin) and iOS apps (using Swift). I specialize in creating clean, user-friendly applications that focus on performance and scalability. Always eager to learn and stay updated with the latest trends in mobile development.
 
@@ -17,10 +17,10 @@ I'm a passionate Mobile Developer with experience in building high-quality Andro
 
 ### 📈 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![My GitHub stats](https://github.com/Nipunpv)
 
 ### 🌐 Connect with me
 
 [LinkedIn](https://www.linkedin.com/in/nipun-bhagya-041379259 )
-• [Twitter](https://twitter.com/yourhandle) 
+•[Twitter(https://x.com/PVBNipun?t=2MwL1cT5-qXbX8waVPPWFw&s=09) 
 • [Portfolio](https://yourportfolio.com)
