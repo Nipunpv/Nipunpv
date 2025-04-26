@@ -17,7 +17,7 @@ I'm a passionate Mobile Developer with experience in building high-quality Andro
 
 ### 📈 GitHub Stats
 
-![My GitHub stats](https://github.com/Nipunpv)
+![Nipunpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical)
 
 ### 🌐 Connect with me
 
