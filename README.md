@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F73E7E&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Android+%7C+iOS+%7C+Flutter;Clean+%26+Scalable+Apps;Always+Learning+New+Tech!" alt="Typing SVG" />
 </p>
 
-p align="center">
+<p align="center">
 I'm a passionate <strong>Mobile Developer</strong> with experience in building high-quality <strong>Android apps</strong> (using Java and Kotlin) and <strong>iOS apps</strong> (using Swift). I specialize in clean, user-friendly applications that focus on performance and scalability. Always excited to explore the latest in mobile tech!
 </p>
 
