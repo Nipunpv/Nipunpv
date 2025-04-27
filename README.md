@@ -57,13 +57,14 @@ I'm a passionate <strong>Mobile Developer</strong> with experience in building h
 ---
 ### 📊 GitHub Stats
 
-![Nipunpv's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nipunpv&show_icons=true&theme=radical&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nipunpv&theme=radical&hide_border=true" width="48%" />
+</p>
 
-### 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/nipun-bhagya-041379259)  
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=twitter)](https://x.com/PVBNipun?t=2MwL1cT5-qXbX8waVPPWFw&s=09)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nipunpv&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
 ---
 
 ### 🔗 Portfolio
